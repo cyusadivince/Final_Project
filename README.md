@@ -84,7 +84,7 @@ Stores delivery schedule, dispatch status, and logistics information.
   Orders, payments, deliveries, and stock adjustments recorded in real-time.
 
 * **Data Storage & Integration:**
-  The seven-table schema ensures structured data flow between departments.
+  The nine-table schema ensures structured data flow between different stages.
 
 * **Internal Control & Accuracy:**
   Payment verification, stock validation, and delivery confirmation reduce errors.
