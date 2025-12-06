@@ -42,6 +42,8 @@ The **RetailFlow Management System** addresses challenges in online retail opera
 ---
 ##  BPMN Diagram
 Helps to so see the Work flow of the System through various processes and how their are conducted
+
+Here is the BPMN(Business Process Model and Notation) Diagram
 ![BPMN](https://github.com/cyusadivince/Final_Project/blob/main/ScreenShots/database_objects/BPMN.png)
 
 
@@ -74,6 +76,8 @@ Captures transaction detail.
 ### **7. Delivery**
 
 Stores delivery schedule, dispatch status, and logistics information.
+
+This is the ERD of the Entire Database 
 ![ERD](https://github.com/cyusadivince/RetailFlow-Management-System/blob/main/ScreenShots/database_objects/ERD.png)
 
 
