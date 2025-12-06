@@ -75,6 +75,7 @@ Captures transaction detail.
 
 Stores delivery schedule, dispatch status, and logistics information.
 
+
 ## **MIS Components & Organizational Impact**
 
 ### Key MIS Functions
