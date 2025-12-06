@@ -73,3 +73,19 @@ Captures transaction detail.
 ### **7. Delivery**
 
 Stores delivery schedule, dispatch status, and logistics information.
+
+## **MIS Components & Organizational Impact**
+
+### Key MIS Functions
+
+* **Transaction Processing:**
+  Orders, payments, deliveries, and stock adjustments recorded in real-time.
+
+* **Data Storage & Integration:**
+  The seven-table schema ensures structured data flow between departments.
+
+* **Internal Control & Accuracy:**
+  Payment verification, stock validation, and delivery confirmation reduce errors.
+
+* **Decision Support:**
+  Management can analyze sales, customer trends, high-demand categories, and stock turnover.
