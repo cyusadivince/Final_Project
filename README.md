@@ -74,6 +74,7 @@ Captures transaction detail.
 ### **7. Delivery**
 
 Stores delivery schedule, dispatch status, and logistics information.
+![ERD](https://github.com/cyusadivince/RetailFlow-Management-System/blob/main/ScreenShots/database_objects/ERD.png)
 
 
 ## **MIS Components & Organizational Impact**
